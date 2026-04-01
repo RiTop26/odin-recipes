@@ -1,0 +1,33 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: beige;
+    color: black;
+}
+
+h2 {
+    color: yellowgreen;
+    background-color: black;
+    font-weight: bolder;
+    width: 200px;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    width: 400px;
+}
+
+img {
+    border-color: gold;
+    border-width: 10px;
+    border-style: outset;
+}
+
+ul, ol {
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+    margin: 20px;
+    padding: 30px;
+}
